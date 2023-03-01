@@ -191,7 +191,7 @@ border: none;
 }
 
 .py-repl-run-button {
-    /*opacity: 0;*/
+    opacity: 0;
     bottom: 0.25rem;
     right: 0.25rem;
     position: absolute;
